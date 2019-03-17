@@ -13,7 +13,7 @@ git clone https://github.com/chiragbudhiraja/candyapi.git
 
 <h3>Step 2:</h3>
  # To install all Dependencies <br>
- ``` $ npm install
+ $ npm install ``` 
 
- To Run locally <br>
+ To Run locally 
  $ npm start ```
