@@ -10,10 +10,8 @@ or
 **Clone** : `$ git clone https://github.com/chiragbudhiraja/candyapi.git`
 
 
->Step 2:
-```
-#To install dependencies
-$ npm install
-#To Run locally
-$ npm start 
-``` 
+>Step 2:  
+###To install dependencies
+`$ npm install `
+###To Run locally
+`$ npm start `
