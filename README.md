@@ -2,8 +2,8 @@
 API build for Practice of PassPort.js
 - Nodejs Project
 - Api
-  -Login
-  -Register
+  - Login
+  - Register
 ## Local Setup
 > Step 1:  
 
