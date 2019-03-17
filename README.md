@@ -13,8 +13,8 @@ Clone :
 
 **Step 2:**
 ```
-*#To install dependencies*
+#To install dependencies
 $ npm install
-*#To Run locally*
+#To Run locally
 $ npm start 
 ``` 
