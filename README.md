@@ -19,5 +19,4 @@ or
 #### To Run locally  
 `$ npm start `  
 
-
 **Good Luck**
