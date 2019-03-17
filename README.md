@@ -9,7 +9,9 @@ API build for Practice of PassPort.js
 Download .zip
 <b>OR</b>
 Clone :
-``` git clone https://github.com/chiragbudhiraja/candyapi.git ```
+```
+$ git clone https://github.com/chiragbudhiraja/candyapi.git
+```
 
 <h3>Step 2:</h3>
  ```
