@@ -1,22 +1,20 @@
 # candyapi
 API build for Practice of PassPort.js
-<ul>
-    <li>Angular Project</li>
-    <li>Heroku</li>
-</ul>
-<h1>Local Setup</h1>
-<h3>Step 1:</h3>
-Download .zip
-<b>OR</b>
+-Angular Project
+-Heroku
+## Local Setup
+**Step 1:**
+Download zip file
+or 
 Clone :
-```
-$ git clone https://github.com/chiragbudhiraja/candyapi.git
-```
 
-<h3>Step 2:</h3>
- ```
- #To install dependencies
-  $ npm install
- #To Run locally 
- $ npm start 
- ```
+`$ git clone https://github.com/chiragbudhiraja/candyapi.git`
+
+
+**Step 2:**
+```
+\#To install dependencies\#
+ npm install
+\#To Run locally\# 
+ npm start 
+``` 
