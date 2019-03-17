@@ -14,7 +14,7 @@ Clone :
 **Step 2:**
 ```
 #To install dependencies
- $ npm install
+$ npm install
 #To Run locally 
- $ npm start 
+$ npm start 
 ``` 
