@@ -1,0 +1,28 @@
+{
+  "name": "candyapi",
+  "version": "0.0.1",
+  "description": "API build for Practice of PassPort.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiragbudhiraja/candyapi.git"
+  },
+  "keywords": [
+    "PassPort.js",
+    "Authentication",
+    "Login"
+  ],
+  "author": "Chirag Budhiraja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chiragbudhiraja/candyapi/issues"
+  },
+  "homepage": "https://github.com/chiragbudhiraja/candyapi#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
