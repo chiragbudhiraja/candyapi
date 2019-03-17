@@ -1,4 +1,4 @@
-# candyapi
+# CandyApi
 API build for Practice of PassPort.js
 - Angular Project
 - Heroku
