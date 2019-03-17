@@ -3,7 +3,7 @@ API build for Practice of PassPort.js
 - Angular Project
 - Heroku
 ## Local Setup
-> Step 1: <br>
+> Step 1: 
 **Download zip file** <br>
 or <br>
 **Clone** : `$ git clone https://github.com/chiragbudhiraja/candyapi.git`
