@@ -13,8 +13,6 @@ Clone :
 
 <h3>Step 2:</h3>
  ```
- # To install all Dependencies
-
   $ npm install
   
  ```
