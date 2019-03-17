@@ -1,7 +1,9 @@
 # CandyApi
 API build for Practice of PassPort.js
-- Angular Project
-- Heroku
+- Nodejs Project
+- Api
+  -Login
+  -Register
 ## Local Setup
 > Step 1:  
 
