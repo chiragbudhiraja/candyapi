@@ -13,11 +13,8 @@ Clone :
 
 <h3>Step 2:</h3>
  ```
+ #To install dependencies
   $ npm install
-  
- ```
- ```
-
- To Run locally 
+ #To Run locally 
  $ npm start 
  ```
