@@ -16,4 +16,4 @@ git clone https://github.com/chiragbudhiraja/candyapi.git
  ``` $ npm install ```
 
  To Run locally 
- ``` $ npm start ```
+ $ npm start ```
