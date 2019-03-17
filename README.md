@@ -5,7 +5,7 @@ API build for Practice of PassPort.js
 ## Local Setup
 > Step 1: <br>
 **Download zip file** 
-or <br>
+ <br>
 **Clone** : `$ git clone https://github.com/chiragbudhiraja/candyapi.git`
 
 
