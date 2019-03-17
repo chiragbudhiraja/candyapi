@@ -4,8 +4,8 @@ API build for Practice of PassPort.js
 - Heroku
 ## Local Setup
 > Step 1:  
-**Download zip file** 
-or <br>
+**Download zip file**  
+or
 **Clone** : `$ git clone https://github.com/chiragbudhiraja/candyapi.git`
 
 
